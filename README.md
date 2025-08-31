@@ -103,16 +103,9 @@ En el **nivel 12**, la contraseña está oculta en `data.txt`, que es **un hexdu
 
 ## 📝 Ejemplo de salida
 
+![Ejemplo de ejecución: clave tapada](run.png)
+
 ```
 <clave_del_siguiente_nivel>
 Done succesfully.
 ```
-
----
-
-## 🧪 Notas y mejoras futuras
-
-- Adaptar el script para compatibilidad con otros sistemas (ej. Windows con WSL o PowerShell).
-- Mejorar la detección de errores y mensajes informativos.
-- Añadir validaciones para dependencias y formatos.
-- Documentar ejemplos visuales y troubleshooting.
